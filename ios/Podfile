@@ -1,0 +1,29 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'LazyBBQ' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for LazyBBQ
+  pod 'ReactiveCocoa', '~>2.3.1'
+
+  target 'LazyBBQTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'LazyBBQ-tvOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for LazyBBQ-tvOS
+
+  target 'LazyBBQ-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
