@@ -12,15 +12,10 @@
 
 1. Goto the root directory
 2. run `npm i` (if already exists the node_modules folder, run `npm run newclear` instead of `npm i`)
-3. unzip the `node_modules.zip` file and merge it to the `node_modules` directory
-  - copy `node_modules.zip` and paste it to the another directory.
-  - unzip the `node_modules.zip`
-  - copy `node_modules` directory and paste it to the project root directory
-  - when mac asks the paste mode, please choose the `Merge` mode
-4. run `cd ios`
-5. run `pod install` (if failed, unzip the `TREBOW.xcodeproj.zip` in the /ios folder and replace it and run again.)
-6. run `cd ..`
-7. run `react-native link`
+3. run `cd ios`
+4. run `pod install`
+5. run `cd ..`
+6. run `react-native link`
 
 Once you do the above process successfully you don't need to the 'package install' process again in the next time.
 Only reply above step when `package.json` is updated.
@@ -86,16 +81,13 @@ Only reply above step when `package.json` is updated.
     <!-- Gradle -->
     <img src="https://img.shields.io/badge/Gradle-02303a?flat=plastic&logo=gradle&logoColor=white" height="32" alt="Gradle" />
     &nbsp;
+    <!-- Bluetooth -->
+    <img src="https://img.shields.io/badge/Bluetooth-0082fc?flat=plastic&logo=bluetooth&logoColor=black" height="32" alt="Bluetooth" />
+    &nbsp;
     <!-- Xcode -->
     <img src="https://img.shields.io/badge/Xcode-147efb?flat=plastic&logo=xcode&logoColor=white" height="32" alt="Xcode" />
     &nbsp;
     <!-- Android Studio -->
     <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?flat=plastic&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
-    &nbsp;
-    <!-- Firebase -->
-    <img src="https://img.shields.io/badge/Firebase-ffca28?flat=plastic&logo=firebase&logoColor=black" height="32" alt="Firebase" />
-    &nbsp;
-    <!-- Google Maps -->
-    <img src="https://img.shields.io/badge/Google%20Maps-4285f4?flat=plastic&logo=google%20maps&logoColor=white" height="32" alt="Google Maps" />
     &nbsp;
 </p>
