@@ -82,7 +82,7 @@ Only reply above step when `package.json` is updated.
     <img src="https://img.shields.io/badge/Gradle-02303a?flat=plastic&logo=gradle&logoColor=white" height="32" alt="Gradle" />
     &nbsp;
     <!-- Bluetooth -->
-    <img src="https://img.shields.io/badge/Bluetooth-0082fc?flat=plastic&logo=bluetooth&logoColor=black" height="32" alt="Bluetooth" />
+    <img src="https://img.shields.io/badge/Bluetooth-0082fc?flat=plastic&logo=bluetooth&logoColor=white" height="32" alt="Bluetooth" />
     &nbsp;
     <!-- Xcode -->
     <img src="https://img.shields.io/badge/Xcode-147efb?flat=plastic&logo=xcode&logoColor=white" height="32" alt="Xcode" />
